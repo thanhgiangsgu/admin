@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "636b4c4c76e5e1a859407ab5",
+        "item.order_id,": "dh01",
+        "item.customer_id,": "634d02cbc2caa7c9fdaba2c5",
+        "item.order_date,": "2022-20-02",
+        "item.order_address,": "Dai hoc sai gon",
+        "item.order_phone,": "082738173",
+        "item.order_method,": "momo",
+        "item.order_status,": "1",
+        "item.order_note,": "Giang dep trai",
+        "item.order_total_price,": 2903871
+    }
+]
